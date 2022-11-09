@@ -1,7 +1,10 @@
 Hola 👋
-Actualmente me encuentro trabajando como programador full stack para la empresa Camposantos Parque de la Paz de Ecuador, en Parque constamos con un conjunto de soluciones (ERP || CRM || APPs || ChatBots || BI (cubos y power BI) || AppWeb's || WebSite || Apis || Reports) creadas por el departamento de desarrollo que soportan el giro de negocio de la empresa. Gracias a esto pude hacer mi camino como dev ya que pude participar en la arquitectura, diseño, desarrollo y despliegue de la mayoría de estas soluciones tecnológicas.
+Full-Stack Web Developer | Tech Lead | C# | JavaScript | UX | +10 años programando | Siempre buscando nuevos retos
 
-Mis principales lenguajes/plataformas de programación son: .NetCore, .NetFramewrok, Javascript, TypeScript, SQLServer.
+Hola, soy Jimmy 👋 Full stack developer con +10 años de experiencia en desarrollo web bajo arquitecturas .NET, experto en JavaScript, C# y SQLServer. Amplios conocimientos en la creación de reportes e indicadores de gestión usando PBI, SSIS y SSRS. Orientado a resultados y enfocado en desarrollar aplicaciones escalables y usables.
+
+Me gusta estar siempre actualizado, trabajar en equipos en los que pueda aportar y aprender. ¡Creo firmemente que programando podemos construir un mundo mejor!
+Puedes contactarme a: jimmy.vasquez@outlook.com
 
 💼 My personal [Linkedin](linkedin.com/in/jimmyvasquezec)
 
