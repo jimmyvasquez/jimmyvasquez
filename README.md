@@ -1,4 +1,3 @@
-Hola 👋
 Full-Stack Web Developer | Tech Lead | C# | JavaScript | UX | +10 años programando | Siempre buscando nuevos retos
 
 Hola, soy Jimmy 👋 Full stack developer con +10 años de experiencia en desarrollo web bajo arquitecturas .NET, experto en JavaScript, C# y SQLServer. Amplios conocimientos en la creación de reportes e indicadores de gestión usando PBI, SSIS y SSRS. Orientado a resultados y enfocado en desarrollar aplicaciones escalables y usables.
